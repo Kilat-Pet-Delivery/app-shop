@@ -1,3 +1,7 @@
+> ⚠️ **Archived 2026-05-23.** Active development moved to [`app-shop-ios`](https://github.com/Kilat-Pet-Delivery/app-shop-ios). This Flutter scaffold is preserved for git history reference.
+
+---
+
 # app_shop
 
 A new Flutter project.
